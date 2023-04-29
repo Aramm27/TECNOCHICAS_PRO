@@ -1,0 +1,65 @@
+body{
+    background-color: black;
+    font-family: "roboto" , sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    color: rgb(14, 10, 218);
+}
+
+h3{
+    color: aliceblue;
+    font-weight: 12;
+    text-align: left;
+    
+}
+.container{
+    margin-top: 55px;
+    display: flex;
+    justify-content: center;
+    text-align: left;
+}
+h4 {
+    color: rgb(100, 98, 231);
+    font-weight: 12;
+    text-align: justify;
+    text-align: left;
+}
+h5 {
+    color: rgb(230, 99, 175);
+    font-weight: 14;
+    text-align: center;
+}
+
+h6 {
+    color: rgb(132, 216, 160);
+    font-weight: 30;
+    text-align: center;
+    text-decoration-style: unset;
+}
+
+img {
+width:200px;
+height:200px;
+border-top:  50%;
+object-position: 30%;
+object-fit: cover;
+
+}
+video{
+width:300px;
+height:300px;
+border-radius: 50%;
+object-position: 30%;
+object-fit: cover;
+}
+
+
+
+</style>
+</body>
